@@ -1,2 +1,2 @@
-# octopus-elastic-obervability
-Elastic Stack (Elasticsearch, Kibana, Beats/Logstash) observability starter with Docker Compose
+# octopus-obervability
+Observability starter for the Elastic Stack (Elasticsearch, Kibana, Beats/Logstash) with Docker Compose
